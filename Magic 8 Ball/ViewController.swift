@@ -25,4 +25,3 @@ class ViewController: UIViewController {
         ballImageView.image = ballArray[Int.random(in: 0...ballArray.count - 1)]
     }
 }
-
